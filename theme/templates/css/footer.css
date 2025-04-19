@@ -1,0 +1,88 @@
+.fundo-footer{ width: 100%; float: left; height:542px; background:url(../img/footer/fundo-footer.jpg)no-repeat center top;}
+
+.copy-sole{width: 100%; float: left; background: #000; height: 47px; color: #fff}
+.copy-sole p{ font: 11px Open_sansregular}
+.c1{float: left; margin: 16px 0px; width: 50%; text-align: center;}
+.c2{float: left; margin: 16px 0px; width: 50%; text-align: center;}
+.c2 i{ color: #fff}
+.c2 i:hover{ text-decoration: underline}
+.sole-vetor{ background: url(../img/footer/sole.png) no-repeat center bottom; color: transparent; font-size: 0px; padding: 22px 26px 5px 26px;}
+.coracao{ background: url(../img/footer/coracao.png) no-repeat center bottom; background-size: 16px; color: transparent; font-size: 0px; padding: 12px 10px 5px 10px;}
+
+ ::i-block-chrome, .sole-vetor{ background: url(../img/footer/sole.png) no-repeat center bottom; padding: 22px 10px 5px 10px;}
+ ::i-block-chrome, .coracao{ background: url(../img/footer/coracao.png) no-repeat center bottom; padding: 22px 0px 3px 0px; font-size: 6px;}
+
+
+.formulario-footer-padrao-1 { float: left; margin:0px 0 0 46px; width: 374px;}
+.formulario-footer-padrao-1 input{ width: 349px; float: left; border: none; margin: 0 0 24px; background:transparent; color: #fff; height: 42px; padding: 0 0 0 25px; box-shadow: 0px 1px 0px 0px #fff;}
+.formulario-footer-padrao-1 textarea{ overflow: hidden; width: 364px; float: left; border: none; margin: 0 0 24px; background:transparent; color: #fff; padding: 10px 0 0 10px;box-shadow: 0px 1px 0px 0px #fff;}
+.formulario-footer-padrao-1 button{ width: 374px; float: left; border: none; background: #90be3a; color: #fff; height: 42px; font: 10px latoregular}
+.formulario-footer-padrao-1 button:hover{ background:rgb(87, 121, 24);;}
+
+::-webkit-input-placeholder{ color: #fff; font: 12px latoregular}
+:placeholder-shown{ color: #fff; font: 12px latoregular}
+:-ms-input-placeholder{ color: #fff; font: 12px latoregular}
+
+.conteiner-50{width:50%;float:left;}
+.txt-form{width:50%;float:left;margin:25px 0 0 0;}
+.txt-form p{font:18px montserrat-medium;color:#fff;line-height:42px;margin:0 0 0 85px;}
+.txt-form p a{ font: 14px ralewaymedium; color:#fff; float: left; width: 100%}
+.txt-form2{width:50%;float:left;margin:58px 0 0 0;}
+.txt-form2 p{font:18px montserrat-medium;color:#2a3035;line-height:42px;margin:0 0 16px 87px;}
+
+.tel-whats-email{width:244px;height:229px;float:left;background:url(../img/footer/tel-whats-email.png)no-repeat center left;margin: 45px 0 0 164px;}
+.tel-whats-email p{ font: 15px latobold; color: #2a3035; line-height: 18.57px; height: 32px; display: flex; align-items: center;}
+.tel-numero{margin: 0 0 0 51px;}
+.whats-numero{margin: 36px 0 0 51px;}
+.txt-endereco{margin: 32px 0 0 51px;}
+.email{width:229px;height:14px;float:left;background:url(../img/dobro/e-mail-preto.png)no-repeat center left;background-size:226.5px;margin: 45px 0 0 51px;}
+
+.mapa{width:50%;height:112px;float:right;margin:40px 0 0 0;}
+.txt-form2-res{display:none;}
+
+.link-res{display:none;}
+
+
+.container-captcha{width:100%; height:auto; float:left; margin:10px 0; display:inline-block; text-align:center;}
+.g-recaptcha{float:none; display:inline-block;}
+
+
+@media (max-width: 990px){
+    .c1{ width: 100%; margin: 15px 0px 0;}
+    .c2{ width: 100%; margin: 20px 0px;} 
+    .sole-vetor{ background: url(../img/footer/sole-res.png) no-repeat center top; background-size: 55px; height: 30px; padding: 23px 30px 7px 30px;}
+    .copy-sole{ height: auto;}
+    .copy-sole p{ font: 10px Open_sansregular}
+	::i-block-chrome, .sole-vetor{ font-size: 1px; padding: 21px 30px 4px 30px;}
+    
+	.formulario-footer-padrao-1 { width: 96%; margin: 20px 2%;}
+    .formulario-footer-padrao-1 input { width: 95%; padding: 0 0 0 5%;}
+    .formulario-footer-padrao-1 textarea { width: 95%; padding: 10px 0 0 5%;}
+    .formulario-footer-padrao-1 button { width: 100%;}
+    
+    .formulario-footer-padrao-2 { width: 96%; margin: 20px 2%;}
+    .formulario-footer-padrao-2 input { width: 95%; margin: 0 0px 27px 0; padding: 0 0 0 5%;}
+    .formulario-footer-padrao-2 textarea { width: 95%; margin: 0 0px 27px 0; padding: 10px 0 0 5%;}
+    .formulario-footer-padrao-2 button { width: 100%; padding: 0px;}
+    
+    .formulario-footer-padrao-3 { width: 96%; margin: 20px 2%;}
+    .formulario-footer-padrao-3 input { margin: 0 0px 18px 0; padding: 0 0 0 3%; width: 97%;}
+    .formulario-footer-padrao-3 button { margin: 0 0px 0px 0; padding: 0 0 0 0%; width: 100%;}
+    .formulario-footer-padrao-3 textarea { margin: 0 0px 18px 0; padding: 10px 0 0 3%; width: 97%;}
+    
+    .fundo-footer{background:#141719;height:auto;}
+    .txt-form2{display:none;}
+    .txt-form2-res{display:block;width:100%;float:left;margin:20px 0 0 0;}
+    .txt-form2-res p{font:18px montserrat-medium;color:#fff;line-height:42px;margin: -32px 0 0 0;text-align: center;}
+    
+    .txt-form{width:100%;margin: 20px 0 0 0;}
+    .txt-form p{text-align: center;margin:0;}
+    
+    .tel-whats-email{ width: 100%; margin: 0; background: none; text-align: center; height: auto;}
+    .tel-whats-email p{color: #fff; margin: 10px; text-align: center; justify-content: center; height: auto;}
+    .email{width: 231px;float: none;display: inline-block;margin: 0 0 10px 0;background:url(../img/dobro/e-mail-branco.png)no-repeat center left;background-size:226.5px;}
+    .mapa{width:100%;height:112px;margin:0;}
+	
+	.link-res{display:block;display:inline-block;color:#fff;}
+	.link-desk{display:none;}
+}

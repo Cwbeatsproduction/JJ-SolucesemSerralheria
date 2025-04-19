@@ -1,0 +1,251 @@
+.menu {
+  width: 100%;
+  height: 96px;
+  float: left;
+  border-top: 6px solid #a9de46;
+  position: fixed;
+  z-index: 9999;
+  background: #1e2024;
+  top: 0;
+  box-shadow: 0px 2px 12px 0px rgba(51, 51, 51, 0.7);
+}
+.tel-local-topo {
+  width: 866px;
+  height: 59px;
+  float: left;
+  margin: 0 0 0 86px;
+}
+.tel-local-topo p {
+  font: 15.99px latomedium;
+  line-height: 14px;
+  color: #fff;
+}
+.telefone {
+  width: 104px;
+  float: left;
+  margin: 25px 0 0 0;
+}
+.cel {
+  width: 113px;
+  float: left;
+  margin: 25px 0 0 0;
+}
+.email-topo {
+  width: 227px;
+  height: 14px;
+  float: left;
+  background: url(../img/dobro/e-mail-branco.png) no-repeat center left;
+  margin: 25px 0 0 0;
+  background-size: 226.5px;
+}
+.local-topo {
+  width: 280px;
+  float: left;
+  margin: 25px 0 0 0;
+}
+.vetor-telefone {
+  width: 14px;
+  height: 14px;
+  float: left;
+  background: url(../img/menu/telefone.png) no-repeat center top;
+  margin: 24px 8px 0 0;
+}
+.vetor-whatsapp {
+  width: 13px;
+  height: 13px;
+  float: left;
+  background: url(../img/menu/whatsapp.png) no-repeat center top;
+  margin: 24px 8px 0 22px;
+}
+.vetor-email {
+  
+  color: #fff;
+  width: 14px;
+  height: 11px;
+  float: left;
+  background: url(../img/menu/vetor-email.png) no-repeat center top;
+  margin: 27px 8px 0 22px;
+  
+}
+.vetor-local {
+  width: 11px;
+  height: 15px;
+  float: left;
+  background: url(../img/menu/local-topo.png) no-repeat center top;
+  margin: 24px 8px 0 150px;
+}
+.div-paginas {
+  width: 931px;
+  height: 90px;
+  float: left;
+  background: #fff;
+  border-radius: 70px;
+  margin: 0 0 0 44px;
+}
+.div-paginas a {
+  font: 13px ralewaymedium;
+  color: #6e6e6e;
+  line-height: 36.32px;
+  float: left;
+  padding: 0 0 26px 0px;
+}
+.logo {
+  width: 206px;
+  height: 90px;
+  padding: 0 !important;
+  background: url(../img/menu/logo-sem-slogan.png) no-repeat center;
+  margin: 0 0 0 33px;
+  background-size: 154.5px;
+}
+.ligamos {
+  width: 167px;
+  height: 35px;
+  float: left;
+  background: #25262c;
+  margin: 28px 0 0 63px;
+  border-radius: 30px;
+}
+.ligamos a {
+  font: 10px ralewaysemibold;
+  color: #a9de46;
+  line-height: 36.32px;
+  margin: 0 0 0 33px;
+}
+.botoes-menu {
+  width: 370px;
+  float: left;
+  margin: 28px 0 0 55px;
+}
+.vetor-separacao {
+  width: 1px;
+  height: 14px;
+  float: left;
+  background: url(../img/menu/vetor-separacao.png) no-repeat center top;
+  margin: 11px 24px;
+}
+.logo-res {
+  display: none;
+}
+.formulari-hover {
+  display: none;
+  width: 178px;
+  height: 175px;
+  float: left;
+  background: #fff;
+  position: relative;
+  top: -27px;
+  left: -5px;
+}
+.ligamos:hover .formulari-hover {
+  display: block;
+  transition: 0.3s;
+}
+.input-topo {
+  width: 132px;
+  height: 31px;
+  margin: 27px 0 0 16px;
+  border: 0;
+  box-shadow: 0px 1px 0px 0px #d6d6d6;
+  padding: 0 0 0 17px;
+}
+.formulari-hover button {
+  width: 178px;
+  height: 37px;
+  margin: 24px 0 0 0;
+  background: #2e4057;
+  color: #a9de46;
+  font: 10px ralewaybold;
+}
+
+.input-topo::-webkit-input-placeholder {
+  color: #6d6d6d;
+  font: 12px latoregular;
+}
+.input-topo:placeholder-shown {
+  color: #6d6d6d;
+  font: 12px latoregular;
+}
+.input-topo:-ms-input-placeholder {
+  color: #6d6d6d;
+  font: 12px latoregular;
+}
+
+@media (max-width: 990px) {
+  .tel-local-topo {
+    display: none;
+  }
+  .logo {
+    display: none;
+  }
+  .ligamos {
+    display: none;
+  }
+  .vetor-separacao {
+    display: none;
+  }
+  .menu {
+    height: 100px;
+    position: fixed;
+    z-index: 9999;
+    background: #fff;
+    top: 0;
+    box-shadow: 0px 2px 12px 0px rgba(51, 51, 51, 0.7);
+    border: none;
+  }
+  .logo-res {
+    display: block;
+    float: left;
+    height: 50px;
+    background: url(../img/menu/logo-sem-slogan.png) no-repeat center;
+    background-size: 154.5px;
+    width: 160px;
+    margin: 25px 0 0 5%;
+  }
+  .div-paginas {
+    width: 106%;
+    margin: 25px 0 0 -3%;
+    height: auto;
+    display: none;
+    float: left;
+    border-radius: 0;
+  }
+  .div-paginas a {
+    background: #ececec;
+    margin: 0;
+    width: 90%;
+    padding: 2% 5%;
+    float: left;
+    box-shadow: none;
+    text-align: left;
+    height: 30px;
+  }
+  .div-paginas a:hover {
+    color: #000;
+    background: #a9de46;
+    box-shadow: none;
+  }
+  .botoes-menu {
+    width: 106%;
+    margin: 0 0 0 -3%;
+  }
+  .botao-menu {
+    width: 32px;
+    height: 32px;
+    background: url(../img/menu/icon-menu.png) no-repeat center top;
+    margin: 36px 5% 0 0;
+    cursor: pointer;
+    background-size: 32px;
+    float: right;
+  }
+  .botao-ativado {
+    color: #000 !important;
+    background: #a9de46 !important;
+    box-shadow: none;
+  }
+}
+@media (max-width: 295px) {
+  .logo-res {
+    width: 175px;
+    background-size: 100%;
+  }
+}

@@ -1,0 +1,200 @@
+.div-diferencial{width:100%;height:94px;background:#1e2024;float:left;}
+.conteiner-50{width:50%;height:94px;float:left}
+.txt-diferencial-1{font:16px ralewaybold;color:#a9de46;line-height:20px;float:left;margin:30px 0 0 32px;}
+.txt-diferencial-2{font:13px ralewaymedium;color:#ffffff;line-height:20px;float:left;margin:30px 0 0 0;}
+.barra-diferencial{width:1px;height:37px;float:left;background:url(../img/diferenciais/barra-separacao-diferenciais.png)no-repeat center top;margin:30px 32px;}
+
+.div-institucional{width:100%;height:464px;float:left;border-top:10px solid #ededed;}
+.texto-institucional{width:483px;height:236px;float:left;}
+.txt-institucional-1{width:485px;float:left;margin:52px 0 0 0;}
+.txt-institucional-1 p{font:21px ralewaybold;color:#283546;line-height:24px;}
+.separacao-institucional{width:46px;height:11px;float:left;background:#a9de46;margin:35px 0 0 0;}
+.txt-institucional-2{width:494px;float:left;margin:33px 0 0 0;}
+.txt-institucional-2 p{font:15px ralewaymedium;color:#606060;line-height:24px;}
+.diferenciais-vetores{width:462px;float:left;}
+.diferenciais-vetores p {width:85px;float:left;margin:45px 0 0 0;font:12.93px ralewaybold;color:#606060;line-height:19.89px;text-align:center;}
+.vetor-dinheiro p{width:98px !important;}
+.vetor-dinheiro{width:100px;height:33px;float:left;background:url(../img/dobro/dif3-dobro.png)no-repeat center top;margin: 19px 0 0 21px;background-size:28px;}
+.vetor-estrela{width:80px;height:32px;float:left;background:url(../img/dobro/dif4-dobro.png)no-repeat center top;margin: 19px 0 0 14px;background-size:28px;}
+.vetor-planilha{width:80px;height:28px;float:left;background:url(../img/dobro/dif1-dobro.png)no-repeat center top;margin:19px 0 0 0;background-size:28px;}
+.vetor-engrenagem{width:80px;height:28px;float:left;background:url(../img/dobro/dif2-dobro.png)no-repeat center top;margin: 19px 0 0 21px;background-size:28px;}
+.menu-institucional{width:357px;height:992px;float:left;position: relative;top: -104px;left: 71px;}
+.img-menu{width:357px;height:503px;float:left;background:url(../img/diferenciais/img-menu-institucional.jpg)no-repeat center top;border-top:11px solid #a9de46;}
+.fundo-menu-institucional{width:357px;height:62px;float:left;background:url(../img/diferenciais/fundo-botao.png)no-repeat center top;position: relative;z-index: 1;}
+.fundo-menu-institucional p{width:262px;font:13px ralewaymedium;color:#1e2024;line-height:17.76px;margin: 20px 0 0 77px;}
+.fundo-menu-institucional span{font:13px ralewaybold;}
+.botao-menu-institucional{width:54px;height:54px;float:left;background:url(../img/diferenciais/botao-menu-institucional.jpg)no-repeat center top;}
+.div-opcoes{width:357px;height:410px;background:#252b30;float:right;border-bottom:10px solid #a9de46;position: relative;top: -8px;}
+
+.div-servicos{width:100%;height:401px;float:left;background:#f7f7f7;border-top:9px solid #ededed;}
+.infos-servicos0{width:526px;height:266px;float:left;}
+.infos-servicos1{width:526px;height:266px;float:left;}
+.infos-servicos2{width:526px;height:266px;float:left;}
+.infos-servicos3{width:526px;height:266px;float:left;}
+.infos-servicos4{width:526px;height:266px;float:left;}
+.infos-servicos5{width:526px;height:266px;float:left;}
+.infos-servicos6{width:526px;height:266px;float:left;}
+.infos-servicos7{width:526px;height:266px;float:left;} 
+.infos-servicos8{width:526px;height:266px;float:left;}
+.txt-estruturas-metalicas1{width:361px;height:36px;float:left;margin:58px 0 0 0;}
+.txt-estruturas-metalicas1 p{font:18px ralewaybold;color:#283546;line-height:24px;}
+.vetor-separacao-info-servicos{width:554px;height:10px;float:left;background:url(../img/servicos/vetor-separacao-info-servicos.png)no-repeat center top;top: 109px;position: relative;}
+.txt-estruturas-metalicas2{width:494px;height:167px;float:left;font:14px ralewaymedium !important;color:#606060 !important;line-height:24px !important;margin: 80px 0 0 0px !important;}
+.txt-cobertura-vidro{width:494px;height:167px;float:left;font:14px ralewaymedium !important;color:#606060 !important;line-height:24px !important;margin: 80px 0 0 -362px !important;}
+.test2{width:163px;height:41px;float:right;background:url(../img/servicos/next-info-servicos.png)no-repeat center top;position: relative;top: 46px;}
+.test2 p{font:9.87px ralewaybold;color:#1e2024;line-height:13.49px;margin:14px 0 0 19px;}
+.vetor-links-info-servicos{ width: 8px; height: 212px; float: left; background: url(../img/servicos/link-info-servicos.png) no-repeat center; margin: 41px 0 0 38px;}
+.test p{font:14px ralewaymedium;color:#ffffff;line-height:40px;margin: 0 0 0 59px;}
+.txt-link-info-1{margin: 27px 0 0 59px !important;}
+.ativo p{font:14px ralewaybold;color:#a9de46 !important;line-height:40px;}
+.test p:hover{font:14px ralewaybold;color:#a9de46 !important;line-height:40px;}
+.div-portfolio{width:100%;float:left;}
+.titulo-port{width:100%;float:left;margin:61px 0 0 0;}
+.titulo-port p{font:21px ralewaybold;color:#283546;line-height:24px;text-align:center;}
+.engloba-galeria{width:100%;height:469px;float:left;background:url(../img/portfolio/engloba-galeria.png)no-repeat center top;background-size:100%;margin:33px 0 0 0;}
+.infos-galeria{width:916px;height:341px;float:left;margin:44px 0 0 31px;background:#f8f8f8;}
+.galeria{width:455px;height:340px;float:left;}
+.txt-confira-port{width:330px;float:left;margin:62px 0 0 53px; }
+.txt-confira-port p{font:16px ralewaysemibold;color:#283546;line-height:22px;}
+.txt-confira-port span{font:14px ralewaysemibold;color:#6d6d6d;}
+.logo-port{ width: 309px; height: 36px; float: left; background: url(../img/menu/logo-sem-slogan.png) no-repeat left top; background-size: 103px; margin: 78px 0 0 53px;}
+.separacao-port{ width: 338px; height: 10px; float: left; background: url(../img/portfolio/vetor-separacao-port.png)no-repeat left top; margin: 10px 0 0 53px}
+.prev-next{width:71px;height:25px;float:left;margin:30px 0 0 53px;}
+.prev{width:25px;height:25px;float:left;background:url(../img/dobro/seta_esquerda-dobro.png)no-repeat center top;cursor:pointer;background-size:25px;}
+.next{width:25px;height:25px;float:right;background:url(../img/dobro/seta_direita-dobro.png)no-repeat center top;cursor:pointer;background-size:25px;}
+
+.foto-mini{width:455px;height:340px;float:left;cursor:pointer;}
+
+
+.img-diferencial-port{width:100%;float:left;margin: -48px 0 0.25% 0;position: relative;}
+.img-dif-port-1{padding:10% 16.5%;float:left;background:url(../img/portfolio/img-diferencial-port1.jpg)no-repeat center top;background-size:100%;}
+.img-dif-port-2{padding: 10% 0%;width: 33.5%;float: left;background: url(../img/portfolio/img-diferencial-port2.jpg)no-repeat center top;margin: 0 0.25%;background-size: 100%;position: relative;}
+.img-dif-port-3{padding: 10% 16.5%;float:left;background:url(../img/portfolio/img-diferencial-port3.jpg)no-repeat center top;background-size:100%;}
+
+.txt-img-dif-port-2{width:100%;float:left;position: absolute;top: 50%;margin: -42px 0 0 0;}
+.txt-img-dif-port-2 p{font:21.14px ralewaymedium;color:#a9de46;line-height:28px;text-align: center;}
+.txt-img-dif-port-2 span{font:21.14px ralewaybold;color:#ffffff;line-height:28px;text-align: center;}
+
+.fundo-port{display:none;width: 100%;height: 100%; position: fixed;background: rgba(0,0,0,0.4);top: 0;z-index: 99999;}
+.fundo-port a{color: #fff;font-size: 70px;font-family: latoregular;padding: 1% 2% 99% 98%;position: absolute;top: 0;right: 0;cursor: pointer;}
+
+.port-pop{display:none;width: 42%; height: 62%;margin: 0 0 0 -21%;position: absolute;background-size: 100% !important;top: 20%;left: 50%;}
+
+
+.x-icon {color: #fff;font-size: 70px;font-family: latoregular !important;padding: 0 0 20px 0% !important;position: absolute !important;top: -5% !important;right: -3% !important;height: 30px;text-align: center;width: 50px;cursor: pointer !important;background:#cd0000;border-radius: 63px;font-size: 41px !important;border: 1px solid #fff;}
+.test2-res{display:none;}
+.txt-confira-port-res{display:none;}
+
+.vetor-sombra{width:2px;height:66px;float:left;background:url(../img/diferenciais/sombra-diferenciais.png)no-repeat center top;margin: 23px 0 0 20px;}
+
+.link-whats-web{position: fixed; bottom: 20px; left: 20px; z-index:10000;width: 75px; height: 75px; float: left;background:url(../img/dobro/whatsapp-dobro.png)no-repeat center top;background-size:75px;}
+
+.parcelamos-em-ate { float: left; font: 16px latoheavy; color: #6c6c6c; margin: 35px 0 0 0;}
+
+
+@media(max-width:1065px){
+    .txt-img-dif-port-2{margin: -66px 0 0 0;}
+}
+@media(max-width:990px){
+	.parcelamos-em-ate { float: left; font: 13px latoheavy; color: #6c6c6c; margin: 0 0 20px 0; width: 100%; text-align: center;}
+	.vetor-sombra{display:none;}
+    .barra-diferencial{display:none;}
+    .div-diferencial{display:none;}
+    .conteiner-50{width:100%; height:auto;text-align: center;}
+    .txt-diferencial-1{margin:20px 0 0 0;width: 100%;}
+    .txt-diferencial-2{margin:20px 0 20px 0;width:100%}
+    .div-institucional{height:auto;}
+    .separacao-institucional{display: none;}
+    .texto-institucional{width: 100%;margin: 0;height:auto;}
+    .txt-institucional-1{width:90%;margin: 20px 0 0 5%;}
+    .txt-institucional-1 p{width:100%;text-align:center;}
+    .txt-institucional-2{width:90%;margin:20px 0 0 5%;text-align: center;}
+    .menu-institucional{display:none;}
+    .vetor-planilha{height: auto;width: 25%;margin: 0;}
+    .vetor-engrenagem{height: auto;width: 25%;margin: 0;}
+    .vetor-dinheiro{height: auto;width: 25%;margin: 0;}
+    .vetor-estrela{height: auto;width: 25%;margin: 0;}
+    .diferenciais-vetores{width: 100%;margin: 20px 0 20px 0;}
+    .diferenciais-vetores p{width: 100%;}
+    .vetor-dinheiro p{width:100% !important;}
+
+    .div-servicos{height:auto;}
+    .infos-servicos1{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .infos-servicos2{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .infos-servicos3{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .infos-servicos4{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .infos-servicos5{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .infos-servicos6{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .infos-servicos7{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .infos-servicos8{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .infos-servicos0{width:100%;height:auto;margin:0;text-align: center;position: relative;}
+    .vetor-separacao-info-servicos{display:none;}
+    .txt-estruturas-metalicas1{width:100%;margin: 41px 0 0 0;height: auto;}
+    .txt-estruturas-metalicas1 p{text-align:center;margin: -20px 0 0 0;height:auto;}
+    .txt-estruturas-metalicas2{margin: 20px 0 20px 10% !important;width: 80%;text-align:justify !important;}
+    .test2{display:none;}
+    .test2-res{display:inline-block;width:25px;height:25px;background:url(../img/dobro/seta_direita-dobro.png)no-repeat center top;margin: -12.5px 0 0 0;float:right;background-size:25px;position: absolute;top: 50%;right: 0;}
+    .test2-res-prev{display:inline-block;width:25px;height:25px;background:url(../img/dobro/seta_esquerda-dobro.png)no-repeat center top;margin: -12.5px 0 0 0;float:left;background-size:25px;position: absolute;top: 50%;left: 0;}
+    .test2-res p{font:9.87px ralewaybold;color:#1e2024;line-height:13.49px;margin:14px 0 0 19px;text-align:left;}
+	.botoes-servicos-txt{width:100%;float:left;position: relative;margin: -26% 0 0 0;}
+    .titulo-port{margin:20px 0 0 0;}
+    .engloba-galeria{background: none;margin: 0;height:auto;text-align: center;}
+    .infos-galeria{width: 100%;margin: 20px 0 0 0;height: auto;}
+    .logo-port{display:none;}
+    .separacao-port{display:none;}
+    .txt-confira-port{display:none;}
+    .txt-confira-port-res{display:block;width:100%;float:left;margin:20px 0 0 0;}
+    .txt-confira-port-res p{font:16px ralewaysemibold;color:#283546;line-height:22px;text-align: center;}
+    .txt-confira-port-res span{font:14px ralewaysemibold;color:#6d6d6d;}
+    .galeria{float:none;display:inline-block;margin: 20px 0 0 0;}
+    .prev-next{width: 100%;position: relative;top: -184px;margin: 0px;}
+
+    .img-diferencial-port{display:none;}
+    .img-dif-port-1{padding: 15.7% 25.5%;float: none;display: inline-block;}
+    .img-dif-port-2{width: 51%;margin: 0;padding: 15% 0;float: none;display: inline-block;}
+    .img-dif-port-3{padding: 15.7% 25.5%;float: none;display: inline-block;}
+
+    .port-pop{width:75%;margin: -62px 0 0 -38%;padding: 28% 0px;background-size: 93%;}
+	
+    .fundo-port a{padding: 8% 2% 99% 98%;}
+    .x-icon{top: -2% !important;}
+}
+@media(max-width:525px){
+    .vetor-diferenciais{margin: 20px 0 0 0;display: inline-block;float: none;width: 100%;background-size: 100%;}
+    .vetor-diferenciais p{margin: 12% 0}
+    .txt-img-dif-port-2 p{font: 12.14px ralewaymedium;}
+    .txt-img-dif-port-2 span{font-size:12.14px;}
+    .txt-img-dif-port-2{margin: -27px 0 0 0;}
+
+}
+@media(max-width:490px){
+    .vetor-planilha{width:50%;}
+    .vetor-engrenagem{width:50%;}
+    .vetor-dinheiro{width:50%;margin: 20px 0 0 0;}
+    .vetor-estrela{width:50%;margin: 20px 0 0 0;}
+
+    .galeria{width:100%;height:auto;}
+    .prev-next{top: 0;margin: -40% 0 0 0;}
+    .foto-mini{width:100%;background-size:100%;padding: 37% 0;height: auto;}
+
+
+    .img-diferencial-port{display:none;}
+    .img-dif-port-1{padding:30.5% 49.5%;;}
+    .img-dif-port-2{width: 99%;padding: 30% 0;}
+    .img-dif-port-3{padding:30.5% 49.5%;;}
+    .txt-img-dif-port-2 p {font: 21.14px ralewaymedium;}
+    .txt-img-dif-port-2 span {font-size:21.14px;}
+    .txt-img-dif-port-2 {margin: -50px 0 0 0;}
+}   
+@media(max-width:375px){
+    .txt-img-dif-port-2{margin: -59px 0 0 0;}
+}
+
+@media(max-width:360px){
+	.port-pop{width:100%;margin: -57px 0 0 -50%;padding: 28% 0px;background-size: 93% !important;}
+
+} 
+@media(max-width:345px){
+	.vetor-estrela{width:100%}
+	.vetor-dinheiro{width:100%}
+}
